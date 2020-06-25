@@ -1,10 +1,11 @@
-## intent:greet
+## intent:begrüßung
 - hey
 - hello
 - hi
 - good morning
 - good evening
 - hey there
+- Hallo
 
 ## intent:goodbye
 - bye
@@ -54,3 +55,7 @@
 - are you a human?
 - am I talking to a bot?
 - am I talking to a human?
+
+## intent:informationen
+- Welche Informationen kannst du mir geben?
+- Welche Informationen kannst du mir geben ?

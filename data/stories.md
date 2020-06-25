@@ -29,3 +29,23 @@
 ## bot challenge
 * bot_challenge
   - utter_iamabot
+
+## New Story
+
+* greet
+    - utter_begrüßung
+
+## New Story
+
+* greet
+    - utter_begrüßung
+* informationen
+
+## New Story
+
+* greet
+    - utter_greet
+* begrüßung
+    - utter_begrüßung
+* informationen
+    - utter_möglichkeiten
