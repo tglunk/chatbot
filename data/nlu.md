@@ -59,3 +59,7 @@
 ## intent:informationen
 - Welche Informationen kannst du mir geben?
 - Welche Informationen kannst du mir geben ?
+
+## intent:möglichkeitenOrganisatorisches
+- Ich brauche mehr Informationen zu Organisatorischem
+- Ich benötige mehr Infprmationen zu Organisatorischem

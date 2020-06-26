@@ -10,6 +10,7 @@ intents:
 - bot_challenge
 - informationen
 - begrüßung
+- möglichkeitenOrganisatorisches
 responses:
   utter_cheer_up:
   - image: https://i.imgur.com/nGF1K8f.jpg
@@ -30,8 +31,8 @@ responses:
   - text: Ich kann dir Fragen zu deinen Vorlesungen, Organisatorischem oder Informationen
       welche für dich nützlich sind beantworten.
   utter_möglichkeitenVerwaltung:
-  - text: Im Bereich Verwaltung kann ich dir viele Informationen zur Verfügung stellen.
-      Duale Partner, Standorte der DHBW und Informationen zur Vergütung beispielsweise.
+  - text: Im Bereich Organisatorisches kann ich dir viele Informationen zur Verfügung
+      stellen. Duale Partner, Standorte der DHBW und Informationen zur Vergütung beispielsweise.
       Frag also was auch immer dich interessiert.
 actions:
 - utter_greet
