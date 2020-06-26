@@ -29,6 +29,10 @@ responses:
   utter_möglichkeiten:
   - text: Ich kann dir Fragen zu deinen Vorlesungen, Organisatorischem oder Informationen
       welche für dich nützlich sind beantworten.
+  utter_möglichkeitenVerwaltung:
+  - text: Im Bereich Verwaltung kann ich dir viele Informationen zur Verfügung stellen.
+      Duale Partner, Standorte der DHBW und Informationen zur Vergütung beispielsweise.
+      Frag also was auch immer dich interessiert.
 actions:
 - utter_greet
 - utter_cheer_up
@@ -39,3 +43,4 @@ actions:
 - utter_test
 - utter_begrüßung
 - utter_möglichkeiten
+- utter_möglichkeitenVerwaltung
