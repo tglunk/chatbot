@@ -12,6 +12,7 @@
 - goodbye
 - see you around
 - see you later
+- Danke
 
 ## intent:affirm
 - yes
@@ -63,3 +64,6 @@
 ## intent:möglichkeitenOrganisatorisches
 - Ich brauche mehr Informationen zu Organisatorischem
 - Ich benötige mehr Infprmationen zu Organisatorischem
+
+## intent:infoStudienvertrag
+- Ich brauche INformationen zu meinem Vertrag.

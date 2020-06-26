@@ -34,6 +34,8 @@ responses:
   - text: Im Bereich Organisatorisches kann ich dir viele Informationen zur Verfügung
       stellen. Duale Partner, Standorte der DHBW und Informationen zur Vergütung beispielsweise.
       Frag also was auch immer dich interessiert.
+  utter_infoStudienvertrag:
+  - text: 'Informationen zu deinem Studienvertrag findest du hier: https://www.dhbw-stuttgart.de/service/downloads/studieninteressierte/'
 actions:
 - utter_greet
 - utter_cheer_up
@@ -45,3 +47,4 @@ actions:
 - utter_begrüßung
 - utter_möglichkeiten
 - utter_möglichkeitenVerwaltung
+- utter_infoStudienvertrag
