@@ -105,3 +105,52 @@
     - utter_begrüßung
 * infoVergütung
     - utter_infoVergütung
+
+## New Story
+
+* begrüßung
+    - utter_begrüßung
+* infoImmatrikulation
+    - utter_infoImmatrikulation
+
+## New Story
+
+* begrüßung
+    - utter_begrüßung
+* infoSozialversicherung
+    - utter_infoSozialversicherung
+
+## New Story
+
+* begrüßung
+    - utter_begrüßung
+* infoAnrechnungvonKenntnissen
+    - utter_infoAnrechnungvonKenntnissen
+
+## New Story
+
+* begrüßung
+    - utter_begrüßung
+* infoHochschulreife
+    - utter_infoHochschulreife
+
+## New Story
+
+* begrüßung
+    - utter_begrüßung
+* infoFachhochschulreife
+    - utter_infoFachhochschulreife
+
+## New Story
+
+* begrüßung
+    - utter_begrüßung
+* infoBesonderequalifikationen
+    - utter_infoBesonderequalifikationen
+
+## New Story
+
+* begrüßung
+    - utter_begrüßung
+* infoZweitwohnungssteuer
+    - utter_infoZweitwohnungssteuer

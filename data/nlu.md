@@ -70,3 +70,24 @@
 
 ## intent:infoVergütung
 - Ich benötige Informationen zur Vergütung.
+
+## intent:infoImmatrikulation
+- Informationen zur Immatrikulation.
+
+## intent:infoSozialversicherung
+- Ich benötige Informationen zur Sozialversicherung.
+
+## intent:infoAnrechnungvonKenntnissen
+- Wie kann ich meine Kenntnisse anrechnen lassen?
+
+## intent:infoHochschulreife
+- Ich habe die Hochschulreife, kann ich an der DHBW studieren?
+
+## intent:infoFachhochschulreife
+- Kann ich mich der Fachhochschulreife an der DHBW studieren?
+
+## intent:infoBesonderequalifikationen
+- Ich habe berufliche Erfahrung. Kann ich mit besonderen Qualifikationen an der DHBW studieren?
+
+## intent:infoZweitwohnungssteuer
+- Wie hoch ist die Zweitwohnungssteuer in Stuttgart?
