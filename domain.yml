@@ -11,6 +11,7 @@ intents:
 - informationen
 - begrüßung
 - möglichkeitenOrganisatorisches
+- infoStudienvertrag
 responses:
   utter_cheer_up:
   - image: https://i.imgur.com/nGF1K8f.jpg
@@ -36,6 +37,27 @@ responses:
       Frag also was auch immer dich interessiert.
   utter_infoStudienvertrag:
   - text: 'Informationen zu deinem Studienvertrag findest du hier: https://www.dhbw-stuttgart.de/service/downloads/studieninteressierte/'
+  utter_infoVergütung:
+  - text: 'Informationen zum Thema Vergütung findest du hier: https://www.dhbw-stuttgart.de/service/downloads/studieninteressierte/'
+  utter_infoImmatrikulation:
+  - text: 'Alles Rund um die Immatrikulation findest du, wenn du diesem Link folgst:
+      https://www.dhbw-stuttgart.de/service/downloads/studieninteressierte/'
+  utter_infoSozialversicherung:
+  - text: 'Benötigst du Informationen zur Sozialversicherungspflicht, folge diesem
+      Link: https://www.dhbw-stuttgart.de/service/downloads/studieninteressierte/'
+  utter_infoAnrechnungvonKenntnissen:
+  - text: 'Du hast bereits Kenntnisse außerhalb deines DHBW-Studiums erlangt? Hier
+      findest du alle Informationen über das Anrechnen lassen von Kenntnissen: https://www.dhbw-stuttgart.de/service/downloads/studieninteressierte/'
+  utter_infoHochschulreife:
+  - text: 'Hier findest du alle Informationen für das Studium mit Hochschulreife:
+      https://www.dhbw-stuttgart.de/service/downloads/studieninteressierte/'
+  utter_infoFachhochschulreife:
+  - text: 'Hier findest du alle Informationen für das Studium mit Fachhochschulreife:
+      https://www.dhbw-stuttgart.de/service/downloads/studieninteressierte/'
+  utter_infoBesonderequalifikationen:
+  - text: 'Du hast beispielsweise durch deine berufliche Erfahrung besondere Qualifikationen
+      erworben und möchtest an der DHBW-Stuttgart studieren? Hier findest du alle
+      Informationen zu diesem Thema: https://www.dhbw-stuttgart.de/service/downloads/studieninteressierte/'
 actions:
 - utter_greet
 - utter_cheer_up
@@ -48,3 +70,10 @@ actions:
 - utter_möglichkeiten
 - utter_möglichkeitenVerwaltung
 - utter_infoStudienvertrag
+- utter_infoVergütung
+- utter_infoImmatrikulation
+- utter_infoSozialversicherung
+- utter_infoAnrechnungvonKenntnissen
+- utter_infoHochschulreife
+- utter_infoFachhochschulreife
+- utter_infoBesonderequalifikationen
