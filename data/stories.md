@@ -93,3 +93,15 @@
     - utter_begrüßung
 * infoStudienvertrag
     - utter_infoStudienvertrag
+
+## New Story
+
+* infoStudienvertrag
+    - utter_infoStudienvertrag
+
+## New Story
+
+* begrüßung
+    - utter_begrüßung
+* infoVergütung
+    - utter_infoVergütung

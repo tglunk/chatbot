@@ -58,6 +58,9 @@ responses:
   - text: 'Du hast beispielsweise durch deine berufliche Erfahrung besondere Qualifikationen
       erworben und möchtest an der DHBW-Stuttgart studieren? Hier findest du alle
       Informationen zu diesem Thema: https://www.dhbw-stuttgart.de/service/downloads/studieninteressierte/'
+  utter_infoZweitwohnungssteuer:
+  - text: 'Informationen der Stadt Stuttgart zum Thema Zweitwohnungssteuer findest
+      du hier: https://www.dhbw-stuttgart.de/service/downloads/studieninteressierte/'
 actions:
 - utter_greet
 - utter_cheer_up
@@ -77,3 +80,4 @@ actions:
 - utter_infoHochschulreife
 - utter_infoFachhochschulreife
 - utter_infoBesonderequalifikationen
+- utter_infoZweitwohnungssteuer

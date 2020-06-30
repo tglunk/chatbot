@@ -67,3 +67,6 @@
 
 ## intent:infoStudienvertrag
 - Ich brauche INformationen zu meinem Vertrag.
+
+## intent:infoVergütung
+- Ich benötige Informationen zur Vergütung.
