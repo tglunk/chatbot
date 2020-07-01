@@ -12,6 +12,14 @@ intents:
 - begrüßung
 - möglichkeitenOrganisatorisches
 - infoStudienvertrag
+- infoVergütung
+- infoImmatrikulation
+- infoSozialversicherung
+- infoAnrechnungvonKenntnissen
+- infoHochschulreife
+- infoFachhochschulreife
+- infoBesonderequalifikationen
+- infoZweitwohnungssteuer
 responses:
   utter_cheer_up:
   - image: https://i.imgur.com/nGF1K8f.jpg
@@ -61,6 +69,10 @@ responses:
   utter_infoZweitwohnungssteuer:
   - text: 'Informationen der Stadt Stuttgart zum Thema Zweitwohnungssteuer findest
       du hier: https://www.dhbw-stuttgart.de/service/downloads/studieninteressierte/'
+  utter_infoPrüfungsordnung:
+  - text: 'Informationen zum Thema Prüfungsordnung kannst du hier abrufen: https://www.dhbw-stuttgart.de/service/downloads/studierende/'
+  utter_infoExmatrikulation:
+  - text: 'Den Antrag auf Exmatrikulation kannst du hier finden: https://www.dhbw-stuttgart.de/service/downloads/studierende/'
 actions:
 - utter_greet
 - utter_cheer_up
@@ -81,3 +93,5 @@ actions:
 - utter_infoFachhochschulreife
 - utter_infoBesonderequalifikationen
 - utter_infoZweitwohnungssteuer
+- utter_infoPrüfungsordnung
+- utter_infoExmatrikulation
