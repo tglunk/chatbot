@@ -73,6 +73,20 @@ responses:
   - text: 'Informationen zum Thema Prüfungsordnung kannst du hier abrufen: https://www.dhbw-stuttgart.de/service/downloads/studierende/'
   utter_infoExmatrikulation:
   - text: 'Den Antrag auf Exmatrikulation kannst du hier finden: https://www.dhbw-stuttgart.de/service/downloads/studierende/'
+  utter_infoBeurlaubung:
+  - text: 'Hier kannst du mehr Informationen zum Thema Beurlaubung oder Verlängerungen
+      von Abgabefristen: https://www.dhbw-stuttgart.de/service/downloads/studierende/'
+  utter_infoVersicherung:
+  - text: 'Informationen zu Versicherungen und Co. kannst du hier finden: https://www.dhbw-stuttgart.de/service/downloads/studierende/'
+  utter_infoDualepartner:
+  - text: 'Hier kannst du nach den dualen Partner der DHBW-Stuttgart suchen: https://www.dhbw-stuttgart.de/zielgruppen/duale-partner/liste-dualer-partner/suchergebnis/?tx_cronbafirmen_pi%5BFachbereich1%5D=11&tx_cronbafirmen_pi%5BFachbereich2%5D=&tx_cronbafirmen_pi%5BFachbereich3%5D=&tx_cronbafirmen_pi%5Byearmin%5D=2020&tx_cronbafirmen_pi%5Byearmax%5D=2021&tx_cronbafirmen_pi%5Byear%5D=2020&tx_cronbafirmen_pi%5BfreeOnesOnly%5D=on&tx_cronbafirmen_pi%5BFirmenname%5D=&tx_cronbafirmen_pi%5Baction%5D=Search&tx_cronbafirmen_pi%5Bsubmit%5D=Suchen  Am
+      besten sortierst du die Unternehmen alphabetisch und deine Suche kann beginnen.'
+  utter_infoStandorte:
+  - text: 'Um herauszufinden wo sich die verschiedenen Standorte der DHBW befinden
+      und welche Fakultäten dort vertreten sind, folge diesem Link: https://www.dhbw-stuttgart.de/themen/hochschule/standorte/'
+  utter_infoAnsprechpartner:
+  - text: 'Möchtest du eine Person an der DHBW direkt ansprechen, findest du hier
+      die Kontaktdaten: https://www.dhbw-stuttgart.de/themen/hochschule/mitarbeiterinnen/'
 actions:
 - utter_greet
 - utter_cheer_up
@@ -95,3 +109,8 @@ actions:
 - utter_infoZweitwohnungssteuer
 - utter_infoPrüfungsordnung
 - utter_infoExmatrikulation
+- utter_infoBeurlaubung
+- utter_infoVersicherung
+- utter_infoDualepartner
+- utter_infoStandorte
+- utter_infoAnsprechpartner
