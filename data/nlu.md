@@ -91,3 +91,6 @@
 
 ## intent:infoZweitwohnungssteuer
 - Wie hoch ist die Zweitwohnungssteuer in Stuttgart?
+
+## intent:infoStandorte
+- Wo befinden sich die Standorte der DHBW Stuttgart?

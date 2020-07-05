@@ -184,3 +184,10 @@
     - utter_begrüßung
 * infoFachhochschulreife
     - utter_infoFachhochschulreife
+
+## New Story
+
+* bot_challenge
+    - utter_begrüßung
+* infoStandorte
+    - utter_infoStandorte
