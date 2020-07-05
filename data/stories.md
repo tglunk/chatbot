@@ -191,3 +191,10 @@
     - utter_begrüßung
 * infoStandorte
     - utter_infoStandorte
+
+## New Story
+
+* bot_challenge
+    - utter_begrüßung
+* infoStandorte
+    - utter_infoStandorte

@@ -94,3 +94,4 @@
 
 ## intent:infoStandorte
 - Wo befinden sich die Standorte der DHBW Stuttgart?
+- Wo finde ich die verschiedenen Standorte der DHBW-Stuttgart?
