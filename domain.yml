@@ -20,6 +20,7 @@ intents:
 - infoFachhochschulreife
 - infoBesonderequalifikationen
 - infoZweitwohnungssteuer
+- infoStandorte
 responses:
   utter_cheer_up:
   - image: https://i.imgur.com/nGF1K8f.jpg
@@ -87,6 +88,63 @@ responses:
   utter_infoAnsprechpartner:
   - text: 'Möchtest du eine Person an der DHBW direkt ansprechen, findest du hier
       die Kontaktdaten: https://www.dhbw-stuttgart.de/themen/hochschule/mitarbeiterinnen/'
+  utter_infoDualis:
+  - text: 'Dualis enthält Informationen zu Prüfungsergebnissen, Leistungen und Zusatzqualifikationen.
+      Bitte melde dich mit den dir bekannten Zugangsdaten für deine jeweilige DHBW
+      an. Diese bestehen aus der dir zugeordneten E-Mail-Adresse und dem von dir gewählten
+      Passwort. Den Zugang zu Dualis findest du hier: https://dualis.dhbw.de/'
+  utter_infoDualisPrüfungsergebnisse:
+  - text: 'Deine Prüfungsergebnisse findest du im Dualis der DHBW, bitte melde dich
+      mit den dir bekannten Zugangsdaten für deine jeweilige DHBW an. Diese bestehen
+      aus der dir zugeordneten E-Mail-Adresse und dem von dir gewählten Passwort.
+      Nach der Anmeldung kannst du deine Prüfungsergebnisse über den Reiter „Prüfungsergebnisse“
+      einsehen. Den Zugang zu Dualis findest du hier: https://dualis.dhbw.de/'
+  utter_infoDualisLeistungsübersicht:
+  - text: 'Die Leistungsübersicht deines Studiums findest du im Dualis der DHBW, bitte
+      melde dich mit den dir bekannten Zugangsdaten für deine jeweilige DHBW an. Diese
+      bestehen aus der dir zugeordneten E-Mail-Adresse und dem von dir gewählten Passwort.
+      Nach der Anmeldung kannst du deine Leistungen über den Reiter „Leistungsübersicht“
+      einsehen. Den Zugang zu Dualis findest du hier: https://dualis.dhbw.de/'
+  utter_infoDualisZusatzqualifikationen:
+  - text: 'In Dualis kannst du dich für Kurse einschreiben, welchen eine Zusatzqualifikation
+      zugrunde liegt. Bitte melde dich mit den dir bekannten Zugangsdaten für deine
+      jeweilige DHBW an. Diese bestehen aus der dir zugeordneten E-Mail-Adresse und
+      dem von dir gewählten Passwort. Nach der Anmeldung kannst du eine Übersicht
+      über mögliche Kurse über den Reiter „Zusatzqualifikationen“ einsehen. Den Zugang
+      zu Dualis findest du hier: https://dualis.dhbw.de/'
+  utter_infoMoodle:
+  - text: 'Mit dem E-Learning System Moodle bietet die DHBW Stuttgart den Studenten
+      eine Plattform zum Austausch von Informationen und Dokumente zur Unterstützung
+      der Präsenzveranstaltungen. Melde dich bitte für den Zugang mit den dir bekannten
+      Zugangsdaten für deine jeweilige DHBW an. Diese bestehen aus der dir zugeordneten
+      E-Mail-Adresse und dem von dir gewählten Passwort. Den Zugang zu Moodle findest
+      du hier: https://elearning.dhbw-stuttgart.de/moodle/'
+  utter_infoWBT:
+  - text: Hier findest du Informationen zu WBT "web-based Trainings" https://www.dhbw-stuttgart.de/zielgruppen/studierende/e-learning/,
+      sonstige WBT sind unter https://elearning.dhbw-stuttgart.de/moodle/ unter dem
+      Reiter „Lernprogramme (WBT)“ einzusehen. Ein einschreiben erfolgt über die Moodle
+      Plattform.
+  utter_infoSprachkurse:
+  - text: 'Hier findest du mögliche Sprachkurse, ein einschreiben für die Kurse erfolgt
+      über die Moodle Platform: https://elearning.dhbw-stuttgart.de/moodle/enrol/index.php?id=1614'
+  utter_infoAuslandssemester:
+  - text: 'Auf Moodle findest du Informationen zum Auslandssemester, bei Fragen wende
+      dich bitte an die für deinen Kurs angegebene Kontakt-Mailadresse. Übrigens!
+      Hier findest du auch Informationen über unsere meist schon langjährigen Partneruniversitäten.
+      Du findest die Informationen über den Reiter „Meine Kurse“ unter der Auswahl
+      „Auslandssemester“. Alternativ kannst du auch auf den folgenden Link klicken:
+      https://elearning.dhbw-stuttgart.de/moodle/course/view.php?id=336'
+  utter_infoKurse:
+  - text: 'Eine Übersicht über alle deine aktuellen Kurse findest du auf Moodle. Melde
+      dich dazu mit den dir bekannten Zugangsdaten für deine jeweilige DHBW an. Diese
+      bestehen aus der dir zugeordneten E-Mailadresse und dem von dir gewählten Passwort.
+      Den Zugang zu deinen Kursen findest du hier: https://elearning.dhbw-stuttgart.de/moodle/my/'
+  utter_infoKurseDBTechnologieSander:
+  - text: 'Hier findest du die Information für deinen Kurs „neue DB-Technologie“ bei
+      Professor Sander: https://elearning.dhbw-stuttgart.de/moodle/course/view.php?id=2428'
+  utter_infoControllingTrautwein:
+  - text: 'Hier findest du die Information für deinen Kurs Controlling bei Frau Trautwein:
+      https://elearning.dhbw-stuttgart.de/moodle/course/view.php?id=1386'
 actions:
 - utter_greet
 - utter_cheer_up
@@ -114,3 +172,14 @@ actions:
 - utter_infoDualepartner
 - utter_infoStandorte
 - utter_infoAnsprechpartner
+- utter_infoDualis
+- utter_infoDualisPrüfungsergebnisse
+- utter_infoDualisLeistungsübersicht
+- utter_infoDualisZusatzqualifikationen
+- utter_infoMoodle
+- utter_infoWBT
+- utter_infoSprachkurse
+- utter_infoAuslandssemester
+- utter_infoKurse
+- utter_infoKurseDBTechnologieSander
+- utter_infoControllingTrautwein
