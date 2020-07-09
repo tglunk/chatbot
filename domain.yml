@@ -21,6 +21,7 @@ intents:
 - infoBesonderequalifikationen
 - infoZweitwohnungssteuer
 - infoStandorte
+- greet
 responses:
   utter_cheer_up:
   - image: https://i.imgur.com/nGF1K8f.jpg
@@ -145,6 +146,51 @@ responses:
   utter_infoControllingTrautwein:
   - text: 'Hier findest du die Information für deinen Kurs Controlling bei Frau Trautwein:
       https://elearning.dhbw-stuttgart.de/moodle/course/view.php?id=1386'
+  utter_infoMarketingCRMBlum:
+  - text: 'Hier findest du die Information für deinen Kurs "Marketing und CRM": https://elearning.dhbw-stuttgart.de/moodle/course/view.php?id=1967'
+  utter_infoServicequalitätMünchinger:
+  - text: 'Hier findest du die Information für deinen Kurs "Servicequalität": https://elearning.dhbw-stuttgart.de/moodle/course/view.php?id=1997'
+  utter_infoEinführungQualitätsmanagementBosse:
+  - text: 'Hier findest du die Information für deinen Kurs "Einführung Qualitätsmanagement
+      ": https://elearning.dhbw-stuttgart.de/moodle/course/view.php?id=1382'
+  utter_infoArgileArbeitsweiseEr:
+  - text: 'Hier findest du die Information für deinen Kurs "Agile Arbeitsweisen":
+      https://elearning.dhbw-stuttgart.de/moodle/course/view.php?id=4856'
+  utter_infoUnternehmensführungControllingFTrautwein:
+  - text: 'Hier findest du die Information für deinen Kurs "Unternehmensfürhung und
+      Controlling": https://elearning.dhbw-stuttgart.de/moodle/course/view.php?id=1386'
+  utter_infoArbeitsrechtHartmeyer:
+  - text: 'Hier findest du die Information für deinen Kurs "Arbeitsrecht": https://elearning.dhbw-stuttgart.de/moodle/course/view.php?id=5268'
+  utter_infoPersonalmanagementHudetzka:
+  - text: 'Hier findest du die Information für deinen Kurs "Personalmanagement": https://elearning.dhbw-stuttgart.de/moodle/course/view.php?id=4341'
+  utter_infoITOutsourcingKollmann:
+  - text: 'Hier findest du die Information für deinen Kurs "IT Outsourcing": https://elearning.dhbw-stuttgart.de/moodle/course/view.php?id=1414'
+  utter_infoBusinessIntelligenceStetter:
+  - text: 'Hier findest du die Information für deinen Kurs "Business Intelligence":
+      https://elearning.dhbw-stuttgart.de/moodle/course/view.php?id=6023'
+  utter_infoGeschäftsprozessmanagementKienzle:
+  - text: 'Hier findest du die Information für deinen Kurs "Geschäftsprozessmanagement":
+      https://elearning.dhbw-stuttgart.de/moodle/course/view.php?id=6022'
+  utter_infoITManagementLanger:
+  - text: 'Hier findest du die Information für deinen Kurs "IT-Management ": https://elearning.dhbw-stuttgart.de/moodle/course/view.php?id=2854'
+  utter_infoITRechtRein:
+  - text: 'Hier findest du die Information für deinen Kurs "Rein IT-Recht": https://elearning.dhbw-stuttgart.de/moodle/course/view.php?id=4357'
+  utter_infoServicestrategieUnterberger:
+  - text: 'Hier findest du die Information für deinen Kurs "Servicestrategie": https://elearning.dhbw-stuttgart.de/moodle/course/view.php?id=2855'
+  utter_infoProjektSander:
+  - text: 'Hier findest du die Information für deinen Kurs "Projekt ": https://elearning.dhbw-stuttgart.de/moodle/course/view.php?id=1444'
+  utter_infoIntegrationsseminarSander:
+  - text: 'Hier findest du die Information für deinen Kurs "Integrationsseminar":
+      https://elearning.dhbw-stuttgart.de/moodle/course/view.php?id=2006'
+  utter_infoKursWWI2017G:
+  - text: 'Hier findest du die Information über deinen Vorlesungsplan und der Dozentenübersicht:
+      https://elearning.dhbw-stuttgart.de/moodle/course/view.php?id=3833'
+  utter_infoWINFAllgemein:
+  - text: Hier findest du alle allgemeinen Information über Ihren spezifischen Studiengang.
+      Bitte beachte etweige Änderungen. https://elearning.dhbw-stuttgart.de/moodle/course/view.php?id=1891
+      Melde dich dazu mit den dir bekannten Zugangsdaten für deine jeweilige DHBW
+      an. Diese bestehen aus der dir zugeordneten E-Mailadresse und dem von dir gewählten
+      Passwort.
 actions:
 - utter_greet
 - utter_cheer_up
@@ -183,3 +229,20 @@ actions:
 - utter_infoKurse
 - utter_infoKurseDBTechnologieSander
 - utter_infoControllingTrautwein
+- utter_infoMarketingCRMBlum
+- utter_infoServicequalitätMünchinger
+- utter_infoEinführungQualitätsmanagementBosse
+- utter_infoArgileArbeitsweiseEr
+- utter_infoUnternehmensführungControllingFTrautwein
+- utter_infoArbeitsrechtHartmeyer
+- utter_infoPersonalmanagementHudetzka
+- utter_infoITOutsourcingKollmann
+- utter_infoBusinessIntelligenceStetter
+- utter_infoGeschäftsprozessmanagementKienzle
+- utter_infoITManagementLanger
+- utter_infoITRechtRein
+- utter_infoServicestrategieUnterberger
+- utter_infoProjektSander
+- utter_infoIntegrationsseminarSander
+- utter_infoKursWWI2017G
+- utter_infoWINFAllgemein
