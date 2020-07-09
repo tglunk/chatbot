@@ -198,3 +198,171 @@
     - utter_begrüßung
 * infoStandorte
     - utter_infoStandorte
+
+## infoDualis
+* begrüßung
+    - utter_begrüßung
+* infoDualis
+    - utter_infoDualis
+
+## infoDualisPrüfungsergebnisse
+* begrüßung
+    - utter_begrüßung
+* infoDualisPrüfungsergebnisse
+    - utter_infoDualisPrüfungsergebnisse
+
+## infoDualisLeistungsübersicht
+* begrüßung
+    - utter_begrüßung
+* infoDualisLeistungsübersicht
+    - utter_infoDualisLeistungsübersicht
+
+## infoDualisZusatzqualifikationen
+* begrüßung
+    - utter_begrüßung
+* infoDualisZusatzqualifikationen
+    - utter_infoDualisZusatzqualifikationen
+
+## infoMoodle
+* begrüßung
+    - utter_begrüßung
+* infoMoodle
+    - utter_infoMoodle
+
+## infoWBT
+* begrüßung
+    - utter_begrüßung
+* infoWBT
+    - utter_infoWBT
+
+## infoSprachkurse
+* begrüßung
+    - utter_begrüßung
+* infoSprachkurse
+    - utter_infoSprachkurse
+
+## infoAuslandssemester
+* begrüßung
+    - utter_begrüßung
+* infoAuslandssemester
+    - utter_infoAuslandssemester
+
+## infoKurse
+* begrüßung
+    - utter_begrüßung
+* infoKurse
+    - utter_infoKurse
+
+## infoMarketingCRMBlum
+* begrüßung
+    - utter_begrüßung
+* infoMarketingCRMBlum
+    - utter_infoMarketingCRMBlum
+
+## infoServicequalitätMünchinger
+* begrüßung
+    - utter_begrüßung
+* infoServicequalitätMünchinger
+    - utter_infoServicequalitätMünchinger
+
+## infoEinführungQualitätsmanagementBosse
+* begrüßung
+    - utter_begrüßung
+* infoEinführungQualitätsmanagementBosse
+    - utter_infoEinführungQualitätsmanagementBosse
+
+## infoUnternehmensführungControllingFTrautwein
+* begrüßung
+    - utter_begrüßung
+* infoUnternehmensführungControllingFTrautwein
+    - utter_infoUnternehmensführungControllingFTrautwein
+
+## infoArgileArbeitsweiseEr
+* begrüßung
+    - utter_begrüßung
+* infoArgileArbeitsweiseEr
+    - utter_infoArgileArbeitsweiseEr
+
+## infoControllingCTrautwein
+* begrüßung
+    - utter_begrüßung
+* infoControllingCTrautwein
+    - utter_infoControllingCTrautwein
+
+## infoArbeitsrechtHartmeyer
+* begrüßung
+    - utter_begrüßung
+* infoArbeitsrechtHartmeyer
+    - utter_infoArbeitsrechtHartmeyer
+
+## infoPersonalmanagementHudetzka
+* begrüßung
+    - utter_begrüßung
+* infoPersonalmanagementHudetzka
+    - utter_infoPersonalmanagementHudetzka
+
+## infoKurseDBTechnologieSander
+* begrüßung
+    - utter_begrüßung
+* infoKurseDBTechnologieSander
+    - utter_infoKurseDBTechnologieSander
+
+## infoITOutsourcingKollmann
+* begrüßung
+    - utter_begrüßung
+* infoITOutsourcingKollmann
+    - utter_infoITOutsourcingKollmann
+
+## infoBusinessIntelligenceStetter
+* begrüßung
+    - utter_begrüßung
+* infoBusinessIntelligenceStetter
+    - utter_infoBusinessIntelligenceStetter
+
+## infoGeschäftsprozessmanagementKienzle
+* begrüßung
+    - utter_begrüßung
+* infoGeschäftsprozessmanagementKienzle
+    - utter_infoGeschäftsprozessmanagementKienzle
+
+## infoITManagementLanger
+* begrüßung
+    - utter_begrüßung
+* infoITManagementLanger
+    - utter_infoITManagementLanger
+
+## infoITRechtRein
+* begrüßung
+    - utter_begrüßung
+* infoITRechtRein
+    - utter_infoITRechtRein
+
+## infoServicestrategieUnterberger
+* begrüßung
+    - utter_begrüßung
+* infoServicestrategieUnterberger
+    - utter_infoServicestrategieUnterberger
+
+## infoProjektSander
+* begrüßung
+    - utter_begrüßung
+* infoProjektSander
+    - utter_infoProjektSander
+
+## infoIntegrationsseminarSander
+* begrüßung
+    - utter_begrüßung
+* infoIntegrationsseminarSander
+    - utter_infoIntegrationsseminarSander
+
+## infoKursWWI2017G
+* begrüßung
+    - utter_begrüßung
+* infoKursWWI2017G
+    - utter_infoKursWWI2017G
+
+## infoWINFAllgemein
+* begrüßung
+    - utter_begrüßung
+* infoWINFAllgemein
+    - utter_infoWINFAllgemein

@@ -6,6 +6,8 @@
 - good evening
 - hey there
 - Hallo
+- Guten Tag
+- Grüß Gott
 
 ## intent:goodbye
 - bye
@@ -95,3 +97,140 @@
 ## intent:infoStandorte
 - Wo befinden sich die Standorte der DHBW Stuttgart?
 - Wo finde ich die verschiedenen Standorte der DHBW-Stuttgart?
+
+## intent:infoDualis
+- Dualis
+
+## intent:infoDualisPrüfungsergebnisse
+- Klausurergebnisse
+- Ergbenisse
+- Noten
+- Klausurnoten
+- Prüfungsergebnisse 
+
+## intent:infoDualisLeistungsübersicht
+- Leistungsübersicht
+
+## intent:infoDualisZusatzqualifikationen
+- Zusatzqualifikationen
+
+## intent:infoMoodle
+- Moodle
+
+## intent:infoWBT
+- WBT
+- Web based Training
+
+## intent:infoSprachkurse
+- Sprachkurse
+- Sprache
+- Fremdsprachen
+
+## intent:infoAuslandssemester
+- Auslandssemester
+
+## intent:infoKurse
+- Kurse
+- Kursunterlagen
+- Scripte
+- Vorlesungsdokumente
+- Kursübersicht
+
+## intent:infoMarketingCRMBlum
+- Blum
+- Marketing und CRM
+- CRM
+- Marketing
+
+## intent:infoServicequalitätMünchinger
+- Münchinger
+- Servicequalität
+
+## intent:infoEinführungQualitätsmanagementBosse
+- Bosse
+- Einführung Qualitätsmanagement 
+
+## intent:infoUnternehmensführungControllingFTrautwein
+- Friedrich Trautwein
+- Unternehmensfürhung und Controlling
+
+## intent:infoArgileArbeitsweiseEr
+- Er
+- Agile Arbeitsweisen
+
+## intent:infoControllingCTrautwein
+- Christina Trautwein
+- Controlling
+
+## intent:infoArbeitsrechtHartmeyer
+- Hartmeyer
+- Arbeitsrecht
+
+## intent:infoPersonalmanagementHudetzka
+- Hudetzka
+- Personalmanagement
+
+## intent:infoIntegrationsseminarSander
+- Sander
+- WI-Integrationsseminar
+
+## intent:infoKurseDBTechnologieSander
+- Datenbanktechnologie
+- DB-Technologie
+
+## intent:infoITOutsourcingKollmann
+- Kollmann
+- IT Outsourcing
+
+## intent:infoBusinessIntelligenceStetter
+- Setter
+- Business Intelligence
+- BI
+
+## intent:infoGeschäftsprozessmanagementKienzle
+- Kienzle
+- GPM
+- Geschäftsprozessmanagement 
+
+## intent:infoITManagementLanger
+- Langer
+- IT-Management
+
+## intent:infoITRechtRein
+- Rein
+- IT Recht
+
+## intent:infoServicestrategieUnterberger
+- Unterberger
+- Servicestrategie
+
+## intent:infoProjektSander
+- WI-Projekt
+- Projekt
+
+## intent:infoKursWWI2017G
+- Stundenplan
+- Vorlesungsplan
+- Kursplan
+- Dozentenübersicht
+- Hochladen von Arbeiten
+- Vorlesungs
+- Prüfungsverzeichnis
+
+## intent:infoWINFAllgemein
+- WI-Allgemein
+- WINF
+- Word-Vorlage
+- Zitierrichtlinien
+- Projektarbeitsvorlage
+- Vorlage
+- Bachelorarbeitsvorlage
+- Latex
+- Citavi
+- Scrum
+- Git
+- Gitlab
+- Microsoft
+- SAP
+- Masterstudium
+- Ankündigungen

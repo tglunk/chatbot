@@ -22,6 +22,34 @@ intents:
 - infoZweitwohnungssteuer
 - infoStandorte
 - greet
+- infoDualis
+- infoDualisPrüfungsergebnisse
+- infoDualisLeistungsübersicht
+- infoDualisZusatzqualifikationen
+- infoMoodle
+- infoWBT
+- infoSprachkurse
+- infoAuslandssemester
+- infoKurse
+- infoMarketingCRMBlum
+- infoServicequalitätMünchinger
+- infoEinführungQualitätsmanagementBosse
+- infoUnternehmensführungControllingFTrautwein
+- infoArgileArbeitsweiseEr
+- infoControllingCTrautwein
+- infoArbeitsrechtHartmeyer
+- infoPersonalmanagementHudetzka
+- infoKurseDBTechnologieSander
+- infoITOutsourcingKollmann
+- infoBusinessIntelligenceStetter
+- infoGeschäftsprozessmanagementKienzle
+- infoITManagementLanger
+- infoITRechtRein
+- infoServicestrategieUnterberger
+- infoProjektSander
+- infoIntegrationsseminarSander
+- infoKursWWI2017G
+- infoWINFAllgemein
 responses:
   utter_cheer_up:
   - image: https://i.imgur.com/nGF1K8f.jpg
@@ -143,9 +171,6 @@ responses:
   utter_infoKurseDBTechnologieSander:
   - text: 'Hier findest du die Information für deinen Kurs „neue DB-Technologie“ bei
       Professor Sander: https://elearning.dhbw-stuttgart.de/moodle/course/view.php?id=2428'
-  utter_infoControllingTrautwein:
-  - text: 'Hier findest du die Information für deinen Kurs Controlling bei Frau Trautwein:
-      https://elearning.dhbw-stuttgart.de/moodle/course/view.php?id=1386'
   utter_infoMarketingCRMBlum:
   - text: 'Hier findest du die Information für deinen Kurs "Marketing und CRM": https://elearning.dhbw-stuttgart.de/moodle/course/view.php?id=1967'
   utter_infoServicequalitätMünchinger:
@@ -191,6 +216,8 @@ responses:
       Melde dich dazu mit den dir bekannten Zugangsdaten für deine jeweilige DHBW
       an. Diese bestehen aus der dir zugeordneten E-Mailadresse und dem von dir gewählten
       Passwort.
+  utter_infoControllingCTrautwein:
+  - text: 'Hier findest du die Information für deinen Kurs "Controlling": https://elearning.dhbw-stuttgart.de/moodle/course/view.php?id=1386'
 actions:
 - utter_greet
 - utter_cheer_up
@@ -228,7 +255,6 @@ actions:
 - utter_infoAuslandssemester
 - utter_infoKurse
 - utter_infoKurseDBTechnologieSander
-- utter_infoControllingTrautwein
 - utter_infoMarketingCRMBlum
 - utter_infoServicequalitätMünchinger
 - utter_infoEinführungQualitätsmanagementBosse
@@ -246,3 +272,4 @@ actions:
 - utter_infoIntegrationsseminarSander
 - utter_infoKursWWI2017G
 - utter_infoWINFAllgemein
+- utter_infoControllingCTrautwein
